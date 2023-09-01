@@ -1,0 +1,24 @@
+@media (max-width: 900px) {
+  .css-hz1bth-MuiDialog-container {
+    padding: 20px;
+  }
+  .css-43x8sa {
+    padding: 10px;
+  }
+}
+@media (max-width: 700px) {
+  .css-k008qs img {
+    width: 100%;
+  }
+  .css-k008qs {
+    justify-content: center;
+  }
+}
+@media (max-width: 600px) {
+  .css-k008qs img {
+    width: 50%;
+  }
+  .css-k008qs {
+    padding-top: 10%;
+  }
+}
